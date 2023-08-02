@@ -1,0 +1,51 @@
+{
+	"name": "kiss",
+	"displayName": "Kiss Theme",
+	"version": "0.8.6",
+	"publisher": "rileytwo",
+	"icon": "inst/assets/kiss.png",
+	"description": "Keep It Stupid Simple. A dark and pleasant theme.",
+	"author": {
+		"name": "Riley Roach"
+	},
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/rileytwo/kiss/issues"
+	},
+	"homepage": "https://github.com/rileytwo/kiss/blob/main/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rileytwo/kiss.git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"kiss",
+		"simple"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kiss",
+				"uiTheme": "vs-dark",
+				"path": "themes/kiss-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "605a767a-2cae-43ca-90e0-d3183251cd4a",
+		"publisherId": "e00eb936-6afc-40e0-b76e-2357c3a9cf90",
+		"publisherDisplayName": "rileytwo",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1690342426967,
+		"preRelease": false
+	}
+}
